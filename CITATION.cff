@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Label-scarce, class-imbalanced benchmark of quantum and classical classifiers (fraud-like data, simulation)"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: 0.1.0
+date-released: "2026-10-28"
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/label-scarce-fraud-qml-vs-classical"
+keywords:
+  - quantum machine learning
+  - quantum kernel
+  - data re-uploading
+  - imbalanced classification
+  - fraud detection
+  - benchmarking

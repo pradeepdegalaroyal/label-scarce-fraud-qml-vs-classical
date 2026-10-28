@@ -1,0 +1,13 @@
+dataset,model,slope
+fraud_like,LogReg,-0.061338386744025884
+fraud_like,MLP-8,-0.43231152059495387
+fraud_like,QKernel,-0.6812326828430512
+fraud_like,RBF-SVM,-0.933304413662812
+fraud_like,RandomForest,-0.46920600751729935
+fraud_like,ReUpload-VQC,-0.5210630079861143
+qmap_control,LogReg,-0.00968240889161831
+qmap_control,MLP-8,-0.04646263111909127
+qmap_control,QKernel,-0.29393281782019204
+qmap_control,RBF-SVM,-0.12226206029834498
+qmap_control,RandomForest,-0.07923672141765968
+qmap_control,ReUpload-VQC,-0.04131533076591535

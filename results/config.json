@@ -1,0 +1,43 @@
+{
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "ns": [
+    32,
+    64,
+    128,
+    256
+  ],
+  "n_test": 2000,
+  "noise_n": 128,
+  "noise_ps": [
+    0.0,
+    0.001,
+    0.005,
+    0.01,
+    0.02,
+    0.05
+  ],
+  "noise_shots": [
+    100,
+    1000,
+    10000,
+    0
+  ],
+  "ablation_n": 128,
+  "ablation_layers": [
+    1,
+    2,
+    3
+  ],
+  "epochs": 150,
+  "restarts": 2,
+  "datasets": [
+    "fraud_like",
+    "qmap_control"
+  ]
+}
